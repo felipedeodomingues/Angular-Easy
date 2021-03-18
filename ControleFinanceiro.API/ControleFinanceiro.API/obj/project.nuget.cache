@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdT+AtOopWB9R331U0e7npN0Tyb1lFPQTEnoJu0k8SLaWG835T2/30AIhn2KGFIQWfc8Ds7YKQI87Ovqfs9VaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\Documents\\ControleFinanceiro\\ControleFinanceiro.API\\ControleFinanceiro.API\\ControleFinanceiro.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.3\\microsoft.aspnetcore.jsonpatch.3.1.3.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.3\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.3.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.2\\microsoft.aspnetcore.nodeservices.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.2\\microsoft.aspnetcore.spaservices.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.2\\microsoft.aspnetcore.spaservices.extensions.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.2\\microsoft.extensions.configuration.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.2\\microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.2\\microsoft.extensions.configuration.binder.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.2\\microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.2\\microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.2\\microsoft.extensions.fileproviders.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.2\\microsoft.extensions.fileproviders.physical.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.2\\microsoft.extensions.filesystemglobbing.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.logging\\3.1.2\\microsoft.extensions.logging.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.2\\microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.2\\microsoft.extensions.logging.configuration.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.2\\microsoft.extensions.logging.console.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.options\\3.1.2\\microsoft.extensions.options.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.2\\microsoft.extensions.options.configurationextensions.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
