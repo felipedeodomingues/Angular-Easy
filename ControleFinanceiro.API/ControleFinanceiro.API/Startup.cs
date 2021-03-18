@@ -83,6 +83,7 @@ namespace ControleFinanceiro.API
                    spa.UseProxyToSpaDevelopmentServer($"http://localhost:4200/");
                }
            });
+            //fim da aula 2
         }
     }
 }
